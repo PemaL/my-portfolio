@@ -1,4 +1,26 @@
 body{
     text-align: center;
-    background-color: gray;
+    background-color: blanchedalmond;
+}
+li{
+    display: inline;
+    padding-right: 20px;
+    float: right;
+    margin: 10px;
+
+}  
+a{
+    text-decoration-line: none;
+    color: black;   
+}  
+.homepage{
+  padding-top: 80px;  
+}
+#intro{
+padding-top: 80px;
+}
+img{
+    width: 28%;
+    padding-right: 90px;
+    float: right;  
 }
